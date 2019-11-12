@@ -1,0 +1,5 @@
+name: 'todo[bot]'
+description: 'This does todo stuff!'
+runs:
+  using: 'node12'
+  main: 'action.js'
